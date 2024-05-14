@@ -1,5 +1,5 @@
 FROM python:3.12.2
-LABEL maintainer="tina.vasylenko@gmail.com"
+LABEL maintainer="danylo.t@mate.academy"
 
 WORKDIR /app
 
